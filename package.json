@@ -1,0 +1,19 @@
+{
+  "name": "tw-crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.431.0",
+    "@aws-sdk/lib-storage": "^3.431.0",
+    "aws-sdk": "^2.1477.0",
+    "axios": "^1.5.1",
+    "dotenv": "^16.3.1",
+    "ytdl-core": "^4.11.5"
+  }
+}
